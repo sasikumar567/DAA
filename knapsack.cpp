@@ -47,6 +47,10 @@ int main(){
 		x[i]=p[i]/w[i];
 		printf("%.2f ",x[i]);
 	}
+	printf("\n\n");
+	for(int i=0;i<4;i++){
+		
+	}
 	sort(w,x,p);
 	printf("\n(x1,x2,x3,x4) : ");
 	display(x);

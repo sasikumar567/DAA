@@ -13,6 +13,7 @@ void integer(){
 	if(n==t){
 		printf("Palindrome");
 	}
+	..
 	else{
 		printf("Not a Palindrome");
 	}

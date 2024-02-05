@@ -41,8 +41,6 @@ int main(){
 	scanf("%d",&k);
 	sort(a,l);
 	int x=search(a,0,l-1);
-	printf("Index of %d : %d ",k,x);
-	
-	
+	printf("Index of %d : %d ",k,x);`
 }
 	

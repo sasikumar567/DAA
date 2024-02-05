@@ -16,4 +16,4 @@ int main(){
 		s=s+a[i];
 	}
 	printf("\nSum of even indexes : %d",s);
-}
+} 

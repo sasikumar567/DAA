@@ -21,7 +21,7 @@ void subset_sum_backtracking(int s[], int target_sum, int current_sum, int start
 }
 
 int main() {
-    int s1[] = {6, 2, 8, 1, 5};
+    int s1[] = {3,6, 2, 8, 1, 5};
     int target_sum1 = 9;
 
     printf("Set (s1): ");
